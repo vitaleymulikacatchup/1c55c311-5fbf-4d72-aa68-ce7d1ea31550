@@ -152,25 +152,29 @@ export default function LandingPage() {
               id: "1",
               title: "Infants & Toddlers",
               description: "Soft, colorful toys designed for sensory development",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766064009607-6yw90z60.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766064009607-6yw90z60.jpg",
+              imageAlt: "Cuddly teddy bear toy"
             },
             {
               id: "2",
               title: "Preschool Fun",
               description: "Educational toys that encourage learning through play",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766063998903-w1z9r4uk.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766063998903-w1z9r4uk.jpg",
+              imageAlt: "Educational wooden blocks"
             },
             {
               id: "3",
               title: "Action & Adventure",
               description: "Exciting toys for imaginative outdoor and indoor play",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766064010834-n5zbkcnr.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766064010834-n5zbkcnr.jpg",
+              imageAlt: "Action figures and toy characters"
             },
             {
               id: "4",
               title: "Building & Construction",
               description: "Creative sets that develop problem-solving skills",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766064006956-3w2zoo6a.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766064006956-3w2zoo6a.jpg",
+              imageAlt: "Educational puzzle toys"
             }
           ]}
         />
