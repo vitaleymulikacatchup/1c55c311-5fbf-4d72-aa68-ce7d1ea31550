@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleCentered from '@/components/navbar/NavbarStyleCentered/NavbarStyleCentered';
@@ -29,7 +29,7 @@ export default function LandingPage() {
       <div id="nav" data-section="nav">
         <NavbarStyleCentered
           navItems={[
-            { name: "Home", id: "home" },
+            { name: "Home", id: "hero" },
             { name: "Shop", id: "products" },
             { name: "About", id: "about" },
             { name: "FAQ", id: "faq" },
@@ -37,7 +37,6 @@ export default function LandingPage() {
           ]}
           button={{ text: "Shop Now", href: "products" }}
           brandName="Child"
-          className=""
         />
       </div>
 
